@@ -18,7 +18,7 @@ Este projeto corresponde à **Atividade 11** da disciplina de **Desenvolvimento 
 As principais tags do **HTML5** utilizadas nesta atividade foram:  
 
 ```html
-<img>
+<figure>, <figcaption> 
 ```
 ## 📂 Atividade
 
